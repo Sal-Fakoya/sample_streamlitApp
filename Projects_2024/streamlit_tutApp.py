@@ -35,7 +35,7 @@ st.snow()
 
 # st.image(image_file) : You can use to add add image to your app. 
 # Doesn't change bacground color though
-st.image("back.png")
+# st.image("Projects_2024\back.png")
 
 # st.title(string_name): is use to add title to the web app
 st.title('Welcome to this Example Streamlit App')
